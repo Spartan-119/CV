@@ -1,2 +1,2 @@
 # CV
-this repo contains my updated resume/CV/
+this repo contains my updated resume/CV
